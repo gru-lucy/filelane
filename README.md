@@ -8,7 +8,7 @@
 
   Filmlane is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://gru-lucy.github.io/filmlane/"><strong>➥ Live Demo</strong></a>
+  <a href="https://filelane.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -39,10 +39,6 @@ Windows:
 ```bash
 git clone https://github.com/gru-lucy/filmlane.git
 ```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/gru-lucy).
 
 ### License
 
